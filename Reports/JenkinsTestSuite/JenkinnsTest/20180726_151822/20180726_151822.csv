@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+JenkinnsTest,Chrome 67.0.3396.99,,2018-07-26 15:18:23,2018-07-26 15:18:36,13.228s,PASSED
+,,,,,,
+Test Cases/CustomKeywords/costomkey,Chrome 67.0.3396.99,,2018-07-26 15:18:23,2018-07-26 15:18:24,0.323s,PASSED
+newpakage.hello.prinln,Chrome 67.0.3396.99,,2018-07-26 15:18:24,2018-07-26 15:18:24,0.007s,PASSED
+newpakage.hello.printName,Chrome 67.0.3396.99,,2018-07-26 15:18:24,2018-07-26 15:18:24,0.003s,PASSED
+newpakage.hello.printName,Chrome 67.0.3396.99,,2018-07-26 15:18:24,2018-07-26 15:18:24,0.017s,PASSED
+newpakage.hello.prinln,Chrome 67.0.3396.99,,2018-07-26 15:18:24,2018-07-26 15:18:24,0.000s,PASSED
+newpakage.hello.CalcilateSum,Chrome 67.0.3396.99,,2018-07-26 15:18:24,2018-07-26 15:18:24,0.000s,PASSED
+newpakage.hello.CalcilateSumshobha,Chrome 67.0.3396.99,,2018-07-26 15:18:24,2018-07-26 15:18:24,0.000s,PASSED
+,,,,,,
+Test Cases/CustomKeywords/JenkinsTest,Chrome 67.0.3396.99,,2018-07-26 15:18:24,2018-07-26 15:18:36,12.644s,PASSED
+openBrowser,Chrome 67.0.3396.99,,2018-07-26 15:18:24,2018-07-26 15:18:27,2.963s,PASSED
+navigateToUrl,Chrome 67.0.3396.99,,2018-07-26 15:18:27,2018-07-26 15:18:32,4.731s,PASSED
+setText,Chrome 67.0.3396.99,,2018-07-26 15:18:32,2018-07-26 15:18:32,0.117s,PASSED
+setEncryptedText,Chrome 67.0.3396.99,,2018-07-26 15:18:32,2018-07-26 15:18:32,0.266s,PASSED
+click,Chrome 67.0.3396.99,,2018-07-26 15:18:32,2018-07-26 15:18:36,3.871s,PASSED
+closeBrowser,Chrome 67.0.3396.99,,2018-07-26 15:18:36,2018-07-26 15:18:36,0.598s,PASSED

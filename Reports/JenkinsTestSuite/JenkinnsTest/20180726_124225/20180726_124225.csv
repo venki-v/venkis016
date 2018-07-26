@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+JenkinnsTest,Firefox 61.0,,2018-07-26 12:42:27,2018-07-26 12:42:44,17.565s,PASSED
+,,,,,,
+Test Cases/CustomKeywords/costomkey,Firefox 61.0,,2018-07-26 12:42:27,2018-07-26 12:42:27,0.310s,PASSED
+newpakage.hello.prinln,Firefox 61.0,,2018-07-26 12:42:27,2018-07-26 12:42:27,0.032s,PASSED
+newpakage.hello.printName,Firefox 61.0,,2018-07-26 12:42:27,2018-07-26 12:42:27,0.000s,PASSED
+newpakage.hello.printName,Firefox 61.0,,2018-07-26 12:42:27,2018-07-26 12:42:27,0.000s,PASSED
+newpakage.hello.prinln,Firefox 61.0,,2018-07-26 12:42:27,2018-07-26 12:42:27,0.000s,PASSED
+newpakage.hello.CalcilateSum,Firefox 61.0,,2018-07-26 12:42:27,2018-07-26 12:42:27,0.000s,PASSED
+newpakage.hello.CalcilateSumshobha,Firefox 61.0,,2018-07-26 12:42:27,2018-07-26 12:42:27,0.000s,PASSED
+,,,,,,
+Test Cases/CustomKeywords/JenkinsTest,Firefox 61.0,,2018-07-26 12:42:27,2018-07-26 12:42:44,16.959s,PASSED
+openBrowser,Firefox 61.0,,2018-07-26 12:42:27,2018-07-26 12:42:36,8.503s,PASSED
+navigateToUrl,Firefox 61.0,,2018-07-26 12:42:36,2018-07-26 12:42:41,4.831s,PASSED
+setText,Firefox 61.0,,2018-07-26 12:42:41,2018-07-26 12:42:41,0.112s,PASSED
+setEncryptedText,Firefox 61.0,,2018-07-26 12:42:41,2018-07-26 12:42:41,0.260s,PASSED
+click,Firefox 61.0,,2018-07-26 12:42:41,2018-07-26 12:42:44,2.760s,PASSED
+closeBrowser,Firefox 61.0,,2018-07-26 12:42:44,2018-07-26 12:42:44,0.309s,PASSED

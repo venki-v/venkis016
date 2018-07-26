@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>costomkey</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0f266d5-1814-4198-af12-9bbb439cd0a7</testCaseGuid>
+   <variable>
+      <defaultValue>'sss'</defaultValue>
+      <description></description>
+      <id>974d761c-6f0b-48e6-bbd2-c61b08f9102c</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

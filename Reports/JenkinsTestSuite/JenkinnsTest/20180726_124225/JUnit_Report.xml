@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="JenkinnsTest" time="17" tests="2" failures="0" errors="0">
+   <testsuite name="JenkinnsTest" tests="2" failures="0" errors="0" time="17" timestamp="2018-07-26 12:42:27" hostname="slk - WSLK1FFTRFW-14.SLKSOFT.COM" id="Test Suites/JenkinsTestSuite/JenkinnsTest">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\slk.WSLK1GFTR4P-01.013\\Katalon Studio\\CustomKeywords\\Reports\\JenkinsTestSuite\\JenkinnsTest\\20180726_124225"/>
+         <property name="logFiles" value="C:\\Users\\slk.WSLK1GFTR4P-01.013\\Katalon Studio\\CustomKeywords\\Reports\\JenkinsTestSuite\\JenkinnsTest\\20180726_124225\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="slk - WSLK1FFTRFW-14.SLKSOFT.COM"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.5.0.1"/>
+         <property name="browser" value="Firefox 61.0"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="1aa058f6-5fa8-4110-b7d8-e3fb1d92774e"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/CustomKeywords/costomkey" classname="Test Cases/CustomKeywords/costomkey" status="PASSED">
+         <system-out><![CDATA[2018-07-26 12:42:27 - [TEST_CASE][PASSED] - Test Cases/CustomKeywords/costomkey: Test Cases/CustomKeywords/costomkey
+
+2018-07-26 12:42:27 - [TEST_STEP][PASSED] - newpakage.hello.prinln: newpakage.hello.prinln is PASSED
+
+2018-07-26 12:42:27 - [MESSAGE][PASSED] - newpakage.hello.prinln is PASSED
+
+2018-07-26 12:42:27 - [TEST_STEP][PASSED] - newpakage.hello.printName: newpakage.hello.printName is PASSED
+
+2018-07-26 12:42:27 - [MESSAGE][PASSED] - newpakage.hello.printName is PASSED
+
+2018-07-26 12:42:27 - [TEST_STEP][PASSED] - newpakage.hello.printName: newpakage.hello.printName is PASSED
+
+2018-07-26 12:42:27 - [MESSAGE][PASSED] - newpakage.hello.printName is PASSED
+
+2018-07-26 12:42:27 - [TEST_STEP][PASSED] - newpakage.hello.prinln: newpakage.hello.prinln is PASSED
+
+2018-07-26 12:42:27 - [MESSAGE][PASSED] - newpakage.hello.prinln is PASSED
+
+2018-07-26 12:42:27 - [TEST_STEP][PASSED] - newpakage.hello.CalcilateSum: newpakage.hello.CalcilateSum is PASSED
+
+2018-07-26 12:42:27 - [MESSAGE][PASSED] - newpakage.hello.CalcilateSum is PASSED
+
+2018-07-26 12:42:27 - [TEST_STEP][PASSED] - newpakage.hello.CalcilateSumshobha: newpakage.hello.CalcilateSumshobha is PASSED
+
+2018-07-26 12:42:27 - [MESSAGE][PASSED] - newpakage.hello.CalcilateSumshobha is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/CustomKeywords/JenkinsTest" classname="Test Cases/CustomKeywords/JenkinsTest" status="PASSED">
+         <system-out><![CDATA[2018-07-26 12:42:27 - [TEST_CASE][PASSED] - Test Cases/CustomKeywords/JenkinsTest: Test Cases/CustomKeywords/JenkinsTest
+
+2018-07-26 12:42:27 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-07-26 12:42:36 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-07-26 12:42:36 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-26 12:42:41 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/' successfully
+
+2018-07-26 12:42:41 - [TEST_STEP][PASSED] - setText: Text 'Admin' is set on object 'Object Repository/Page_OrangeHRM/input_txtUsername'
+
+2018-07-26 12:42:41 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Page_OrangeHRM/input_txtUsername'
+
+2018-07-26 12:42:41 - [TEST_STEP][PASSED] - setEncryptedText: Text ****** has been set on object 'Object Repository/Page_OrangeHRM/input_txtPassword'
+
+2018-07-26 12:42:41 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_OrangeHRM/input_txtPassword'
+
+2018-07-26 12:42:41 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-26 12:42:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/input_Submit' is clicked on
+
+2018-07-26 12:42:44 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-07-26 12:42:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-07-26 12:42:27 - [TEST_SUITE][PASSED] - JenkinnsTest: Test Cases/CustomKeywords/JenkinsTest]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
